@@ -51,11 +51,3 @@ while playAgain == 'yes' or playAgain == 'y':
 
 
 
-    # if playAgain == 'no' or playAgain == 'n':
-    #     print('You quit')
-    #     break
-    # elif playAgain != 'no' and playAgain != 'n' and playAgain != 'yes' and playAgain != 'y':
-    #     print('Do you want to play again? (yes or no)')
-    #     playAgain = input()
-
-
